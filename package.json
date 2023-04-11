@@ -6,6 +6,7 @@
   "main": "dist/index.js",
   "author": "Will Murphy <william.murphy@virbela.com>",
   "license": "MPL-2.0",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/virbela/buffered-interpolation/issues"
   },
@@ -17,7 +18,7 @@
     "typescript": "^4.5.4"
   },
   "peerDependencies": {
-    "@babylonjs/core": "^5.0.0-alpha.54"
+    "@babylonjs/core": "^5.54.0"
   },
   "repository": "virbela/buffered-interpolation",
   "keywords": [
