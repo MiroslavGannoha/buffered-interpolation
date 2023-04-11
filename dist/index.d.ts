@@ -1,4 +1,4 @@
-import { Vector3, Quaternion } from "@babylonjs/core/Maths/math.vector";
+import { Vector3, Quaternion } from "@babylonjs/core";
 export declare enum BufferState {
     INITIALIZING = 0,
     BUFFERING = 1,
